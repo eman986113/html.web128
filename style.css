@@ -329,7 +329,7 @@ margin-right: 50%;
 
 .btonn:hover {
   background: #fff;
-  color: #1c98a1;
+  color: #8d3a20;
 }
 
 
@@ -898,7 +898,7 @@ user-select: none;
   }
   section div.pro h2 {
     font-size:30px;
-    color:white;
+    color:rgb(0, 0, 0);
     padding-right: 30%;
     padding-top: 10%;
 
@@ -908,7 +908,7 @@ user-select: none;
     
     text-align: center;
 
-    color: white;
+    color: rgb(0, 0, 0);
     font-family:monospace;
     
     font-size: 1.1rem;
