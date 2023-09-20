@@ -462,9 +462,9 @@ user-select: none;
   }
   section div.pro h2 {
     font-size:30px;
-    color:white;
-    padding-right: 30%;
-    padding-top: 10%;
+    color:rgb(2, 2, 2);
+    padding-left: 0%;
+    padding-top: 7%;
 
 
    }
@@ -472,7 +472,7 @@ user-select: none;
     
     text-align: center;
 
-    color: white;
+    color: rgb(0, 0, 0);
     font-family:monospace;
     
     font-size: 1.1rem;
@@ -680,9 +680,9 @@ user-select: none;
   }
   section div.pro h2 {
     font-size:30px;
-    color:white;
-    padding-right: 30%;
-    padding-top: 10%;
+    color:rgb(14, 13, 13);
+    padding-left: 0%;
+    padding-top: 7%;
 
 
    }
@@ -690,7 +690,7 @@ user-select: none;
     
     text-align: center;
 
-    color: white;
+    color: rgb(17, 17, 17);
     font-family:monospace;
     
     font-size: 1.1rem;
@@ -899,8 +899,8 @@ user-select: none;
   section div.pro h2 {
     font-size:30px;
     color:rgb(0, 0, 0);
-    padding-right: 30%;
-    padding-top: 10%;
+    padding-left: 0%;
+    padding-top: 7%;
 
 
    }
@@ -1116,9 +1116,9 @@ user-select: none;
   }
   section div.pro h2 {
     font-size:30px;
-    color:white;
-    padding-right: 30%;
-    padding-top: 10%;
+    color:rgb(0, 0, 0);
+    padding-left: 0%;
+    padding-top: 7%;
 
 
    }
